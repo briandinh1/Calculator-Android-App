@@ -1,7 +1,7 @@
 # Calculator-Android-App
 APK Available   
 
-Calculator App that uses the shunting yard algorithm to change input from the user into reverse polish notation, and calculates the result based on the RPN.   
+Calculator App that uses the shunting yard algorithm to change infix input from the user into postfix reverse polish notation, and calculates the result on the fly based on the RPN. 
 
 Supports addition, subtraction, multiplication, division, and modulo operations. Also has parenthesis function if user wants more complex calculations  
 
